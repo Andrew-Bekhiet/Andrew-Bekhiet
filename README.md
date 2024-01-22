@@ -61,8 +61,8 @@
 ## 📊 Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=410 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrew-Bekhiet&theme=midnight-purple&langs_count=25&layout=compact" />
+  <img height=410 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andrew-Bekhiet&theme=midnight-purple&langs_count=6&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewbekhiet&theme=midnight-purple&langs_count=25&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=andrewbekhiet&theme=midnight-purple&langs_count=8&layout=compact" />
 </a>
