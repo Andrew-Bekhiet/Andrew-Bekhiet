@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Frameworks
+### Frameworks and Runtimes
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/-Phoenix-FD4F00?style=for-the-badge&logo=phoenixframework&logoColor=white)
